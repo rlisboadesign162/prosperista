@@ -1,0 +1,11 @@
+Manrope, família tipográfica de títulos e textos da Prosperista.
+
+Instalação: clique duas vezes no arquivo .ttf e escolha "Instalar".
+É uma fonte variável: todos os pesos (200 a 800) estão no mesmo arquivo.
+
+Licença: SIL Open Font License 1.1 (gratuita, inclusive para uso comercial).
+Texto completo da licença: https://openfontlicense.org
+Página oficial: https://fonts.google.com/specimen/Manrope
+Projeto original: https://github.com/sharanda/manrope
+
+A fonte do logotipo (Elizeth) não é distribuída: o logotipo é entregue em curvas.
